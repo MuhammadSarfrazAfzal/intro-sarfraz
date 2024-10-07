@@ -7,9 +7,13 @@ const useStyles = makeStyles((theme) => ({
     },
     task:{
       padding:"10px",
-      color:"white",
+      color:"red",
       textDecoration:'none'
+    },
+    toggleButton:{
+      position:'relative',
+      left:'400px',
+      bottom:'8px' 
     }
-    
   }));
 export default useStyles

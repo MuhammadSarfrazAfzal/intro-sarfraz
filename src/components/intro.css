@@ -1,3 +1,4 @@
+
 .about-me-container {
     height: 100vh;
     display: flex;
@@ -5,6 +6,7 @@
     align-items: center;
     background-color: #f4f4f4;
     padding: 20px;
+    margin: 15px;
   }
   
   .about-me-content {
